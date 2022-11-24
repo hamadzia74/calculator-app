@@ -4,7 +4,6 @@ import ButtonsDisplay from "./ButtonsDisplay";
 function CalculateValues() {
   return (
     <div className="calculate-values">
-      {/* <ValuesDisplay /> */}
       <ButtonsDisplay />
     </div>
   );
